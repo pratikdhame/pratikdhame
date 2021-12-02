@@ -1,4 +1,4 @@
-![Pratik Dhame Banner](https://github.com/pratikdhame/tools/blob/main/3_20211120_113044_0002.png?raw=true)
+
 
 <h2>Hey there! I'm Pratik</h2>
 
